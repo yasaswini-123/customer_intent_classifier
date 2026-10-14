@@ -157,7 +157,7 @@ Streamlit, scikit-learn, pandas.
 
 ## Author
 
-`Balla Yasaswini` | [GitHub](https://github.com/yasaswini-123) | [LinkedIn](https:linkedin.com/in/ballayasaswini)
+`Balla Yasaswini` | [GitHub](https://github.com/yasaswini-123) | [LinkedIn](https://www.linkedin.com/in/ballayasaswini/)
 
 ## Licence
 
